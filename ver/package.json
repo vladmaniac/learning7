@@ -1,0 +1,18 @@
+{
+  "name": "ver",
+  "version": "2.6.8",
+  "description": "This is an example of how to use npm",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "TBD"
+  },
+  "author": "VMA",
+  "license": "MIT"
+}
